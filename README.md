@@ -21,7 +21,7 @@ Image of School Analysis = The below image has scores of 10th-12th grade
 
 <img width="1091" alt="School_summary_10-12_grade" src="https://user-images.githubusercontent.com/106944351/177866745-653c99aa-63a0-437f-81d1-07e14af62824.png">
 
-The below image has scores of 9th grade
+The below image has scores of 9th-12th grade
 <img width="1052" alt="School_summary_with_9_grade" src="https://user-images.githubusercontent.com/106944351/177866774-21800ee9-0596-4891-8c05-a044d9862b6d.png">
 
 
