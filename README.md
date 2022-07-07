@@ -1,5 +1,4 @@
 # School_District_Analysis
-# School_District_Analysis
 
 #Overview of the school district analysis: Explain the purpose of this analysis.
 In School District Analysis, students_complete.csv file showed evidence of academic dishonesty; specifically, reading and math grades for Thomas High School ninth graders appear to have been altered.I am supposed to replace the math and reading scores for Thomas High School with NaNs while keeping the rest of the data intact. Also, describe how these changes affected the overall analysis after replacing the math and reading score of Thomas High School with NaN.
@@ -16,7 +15,9 @@ Image of District Analysis = <img width="979" alt="District_Summary" src="https:
 Drop function will drop NaNs that means math and reading scores of Thomas High School will not be considered. It will affect the performance of overall Thomas High School.
 Since Budget did not change even after dropping 9th grade students of Thomas High School, so every remaining student will have more budget.
 
-Image of School Analysis = 
+Image of School Analysis = <img width="1091" alt="School_summary_10-12_grade" src="https://user-images.githubusercontent.com/106944351/177866745-653c99aa-63a0-437f-81d1-07e14af62824.png">
+
+<img width="1052" alt="School_summary_with_9_grade" src="https://user-images.githubusercontent.com/106944351/177866774-21800ee9-0596-4891-8c05-a044d9862b6d.png">
 
 
 ##How does replacing the ninth graders’ math and reading scores affect Thomas High School’s performance relative to the other schools?
